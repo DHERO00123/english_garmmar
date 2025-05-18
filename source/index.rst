@@ -9,7 +9,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 章节目录
 
    cha0/index
    
